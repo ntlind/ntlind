@@ -18,8 +18,3 @@ I'm a software engineer and data scientist based in Denver, CO. Previously, I've
 - **🧹 [byte-sized: clean code](https://docs.google.com/presentation/d/1j6TfXi0m0JnZq3kPhWY3hjbKxUi38DOd/edit#slide=id.p10)** [2022]: A summary of Clean Code for college students in the CodeDay program.
 - **🛠️ [byte-sized: tools of the trade](https://docs.google.com/presentation/d/1Yq73_h-r4safix2l2qCDZq2sqQRNUR82/edit#slide=id.p1)** [2022]: A summary of useful IDEs and extensions for college students in the CodeDay program.
 - **🤝 [byte-sized: collaboration](https://docs.google.com/presentation/d/1-X3aKx7q9bd9uk9eYnIE8gstlLWZzyT8/edit#slide=id.p8)** [2022]: A summary of git best practices for college students in the CodeDay program.
-
-## Learning Projects for 2025
-- 👁️ Explore how llama3.2-vision might be used for recognition and tracking tasks on streamed video
-- 📋 Finish working through my System Design backlog
-- 🚁 Build an FPV drone using [open source software](https://betaflight.com/) to fly around Rocky Mountain National Park 
