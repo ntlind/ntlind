@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Nick
+# 👋 Hey, I'm Nick
 
 ## Highlights
 
