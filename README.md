@@ -1,13 +1,9 @@
 # 👋 Hey, I'm Nick
 
-## Highlights
-
 I'm a software engineer and data scientist based in Denver, CO. Previously, I've worked on:
 - **🧮 Modeling & Evaluations @ Striveworks**: Evaluating and ranking classification, object detection, and semantic segmentation models using Python, PostGIS, Redis, and Docker.
 - **🗣️ Speech AI @ Meta's Augmented Reality AI team**: Enhancing our automatic speech recognition (ASR), natural language understanding (NLU), entity resolution (ER), and knowledge graph services using Python, Spark, Presto, and MySQL. 
-- **📊 Owner @ Quantile**: Building custom forecasting and analytics web applications for technology and media companies using React.js, Python, Kafka, and Snowflake. 
-
-
+- **📊 Owner @ Quantile**: Building custom forecasting and analytics web applications for technology and media companies using React.js, Python, Kafka, and Snowflake.
 
 
 ## Recent (Public) Projects
