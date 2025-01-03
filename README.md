@@ -2,14 +2,15 @@
 
 I'm a software engineer and data scientist based in Denver, CO. Previously, I've worked on:
 - **🧮 Modeling & Evaluations @ Striveworks**: Evaluating and ranking classification, object detection, and semantic segmentation models using Python, PostGIS, Redis, and Docker.
-- **🗣️ Speech AI @ Meta's Augmented Reality AI team**: Enhancing our automatic speech recognition (ASR), natural language understanding (NLU), entity resolution (ER), and knowledge graph services using Python, Spark, Presto, and MySQL. 
-- **📊 Owner @ Quantile**: Building custom forecasting and analytics web applications for technology and media companies using React.js, Python, Kafka, and Snowflake.
+- **🗣️ Speech AI @ Meta's Augmented Reality AI team**: Building automatic speech recognition (ASR), natural language understanding (NLU), entity resolution (ER), and knowledge graph services using Python, Spark, Presto, and MySQL. 
+- **📊 Owner @ Quantile**: Creating custom forecasting and analytics web applications for technology and media companies using React.js, Python, Kafka, and Snowflake.
 <p> <br> </p>
 
-## Recent (Public) Projects
+## Recent Public Projects
 - **📚 [persist](https://github.com/ntlind/persist)** [2024]: A modern Anki application that I use to review my book notes. Built with Swift (SwiftUI) and Python (FastAPI).
 - **📷 [valor](https://github.com/Striveworks/valor)** [2024]: A lightweight, NumPy-based library for evaluation classification, object detection, and semantic segmentation tasks.
 - **📈 [graphik](https://github.com/ntlind/tableau_electron_app)** [2023]: A Tableau-esque Electron app built using Next.js, D3.js, Tailwind, and TypeScript.
+<p> <br> </p>
 
 ## Recent Presentations
 - **🐍 [modern python optimizations](https://docs.google.com/presentation/d/1Z5s44lZi2pqYHg5HFNvBYfrISeFVLmWsLNKzSU3Rk7U/edit?usp=sharing)** [2024]: A summary of the big ideas that have shaped Python from 3.8 to 3.13.
