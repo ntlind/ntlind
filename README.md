@@ -4,7 +4,8 @@ I'm a software engineer and data scientist based in Denver, CO. Previously, I've
 - **🧮 Modeling & Evaluations @ Striveworks**: Evaluating and ranking classification, object detection, and semantic segmentation models using Python, PostGIS, Redis, and Docker.
 - **🗣️ Speech AI @ Meta's Augmented Reality AI team**: Enhancing our automatic speech recognition (ASR), natural language understanding (NLU), entity resolution (ER), and knowledge graph services using Python, Spark, Presto, and MySQL. 
 - **📊 Owner @ Quantile**: Building custom forecasting and analytics web applications for technology and media companies using React.js, Python, Kafka, and Snowflake.
-
+<p> <br> </p>
+<p> <br> </p>
 
 ## Recent (Public) Projects
 - **📚 [persist](https://github.com/ntlind/persist)** [2024]: A modern Anki application that I use to review my book notes. Built with Swift (SwiftUI) and Python (FastAPI).
