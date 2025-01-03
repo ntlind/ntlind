@@ -32,4 +32,4 @@ I'm a software engineer and data scientist based in Denver, CO. Previously, I've
 ## Learning Projects for 2025
 - 👁️ Explore how llama3.2-vision might be used for recognition and tracking tasks on streamed video
 - 📋 Finish working through my System Design backlog
-- 🚁 Build an FPV drone from scratch to fly around Rocky Mountain National Park
+- 🚁 Build an FPV drone from scratch to fly around Rocky Mountain National Park using [open source software](https://betaflight.com/)
